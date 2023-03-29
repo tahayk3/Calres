@@ -1,0 +1,11 @@
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaNegocio\obj\Debug\CapaNegocio.pdb

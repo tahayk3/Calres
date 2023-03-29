@@ -1,0 +1,6 @@
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\MIS DOCUMENTOS\PROGRAMAS FINALES\CalificadorCALRES\CapaEntidad\obj\Debug\CapaEntidad.pdb
